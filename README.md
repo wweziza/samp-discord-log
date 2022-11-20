@@ -6,12 +6,10 @@ Migrating from https://github.com/weziza
 # This is the stable version from https://github.com/weziza
 
 ## TODO LIST
---------------
-[x] OnPlayerDeath, OnPlayerConnect, OnPlayerChat, OnPlayerCommandPrefered, OnPlayerDisconnect are logged to specific channel
-[ ] Universal channel (changed from discord bot)
+- [x] OnPlayerDeath, OnPlayerConnect, OnPlayerChat, OnPlayerCommandPrefered, OnPlayerDisconnect are logged to specific channel
+- [ ] Universal channel (changed from discord bot)
 
 # Configuration
---------------
 1. Get your [discord-connector from maddinat0r](https://github.com/maddinat0r/samp-discord-connector)
 2. Dont forget we using [Pawn.CMD](https://github.com/katursis/Pawn.CMD/releases) here
 3. Grab your discord token at portal developer
