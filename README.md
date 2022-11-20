@@ -3,7 +3,7 @@ Filterscript that follow up everything from the game to specific discord channel
 
 Migrating from https://github.com/weziza
 
-# This is the stable version from https://github.com/weziza
+# This is the stable version of https://github.com/weziza
 
 ## TODO LIST
 - [x] OnPlayerDeath, OnPlayerConnect, OnPlayerChat, OnPlayerCommandPrefered, OnPlayerDisconnect are logged to specific channel
